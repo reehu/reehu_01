@@ -4,5 +4,4 @@ do
 echo $i
 done
 echo hehe
-echo worinima
 echo woriniba
